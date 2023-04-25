@@ -73,7 +73,7 @@ from lxml import etree  # parsing data in events generated from xml content
 ___
 
 ## System Requirements
-This utility works on modern Windows, macOS and Linux operating systems compatible with Python 3.7 onwards. Both 32-bit and 64-bit platforms are supported as well as macOS arm64 (m1). Recommended 8 GB RAM or more. Minimum at least 4 GB RAM.
+This utility works on modern Windows, macOS and Linux operating systems compatible with Python 3.7 onwards. Both 32-bit and 64-bit platforms are supported as well as macOS arm64 (m1). EVTX log files can be sourced from your local machine, remote computers, and external .EVTX log files. Recommended 8 GB RAM or more. Minimum at least 4 GB RAM.
 
 ___
 
