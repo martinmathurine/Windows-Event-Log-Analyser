@@ -218,19 +218,19 @@ ___
 
 ## References: 
 * [01] Log File Analysis with Python. [Pluralsight](https://www.pluralsight.com/courses/python-log-file-analysis). Accessed 01 Apr. 2023.
-* [02] PySimpleGUI Tutorial. [TutorialsPoint](https://www.tutorialspoint.com/pysimplegui/index.htm). Accessed 19 Apr. 2023.
-* [03] Ben-Amram [omerbenamram@gmail.com](mailto:omerbenamram@gmail.com), Omer. Evtx: Python Bindings for [Github](Https://Github.Com/Omerbenamram/Evtx). MacOS :: MacOS X, POSIX.
-* [04] Grav - Markdown Syntax. [TutorialsPoint](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm). Accessed 19 Apr. 2023.
+* [02] PySimpleGUI Tutorial. [TutorialsPoint](https://www.tutorialspoint.com/pysimplegui/index.htm). Accessed 01 Apr. 2023.
+* [03] Ben-Amram [omerbenamram@gmail.com](mailto:omerbenamram@gmail.com), Omer. Evtx: Python Bindings for [Github](Https://Github.Com/Omerbenamram/Evtx). MacOS :: MacOS X, POSIX. Accessed 01 Apr. 2023.
+* [04] Grav - Markdown Syntax. [TutorialsPoint](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm). Accessed 01 Apr. 2023.
 * [05] ‘Datetime — Basic Date and Time Types’. Python Documentation, [Python](https://docs.python.org/3/library/datetime.html). Accessed 19 Apr. 2023.
-* [06] vinaypamnani-msft. 4688(S) A New Process Has Been Created. (Windows 10). 16 Dec. 2022, [Microsoft](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688).
-* [07] ‘Re — Regular Expression Operations’. Python Documentation, [Python](https://docs.python.org/3/library/re.html). Accessed 19 Apr. 2023.
-* [08] Windows Security Log Event ID 4688 - A New Process Has Been Created. [UltimateWindowsSecurity](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688). Accessed 19 Apr. 2023.
-* [09] W. Ballenthin, “python-evtx,” GitHub, Apr. 17, 2023. [GitHub](https://github.com/williballenthin/python-evtx). Accessed 19 Apr. 2023.
-* [10] Desai, Bhargav. 'Login Authenticator'. Stack Overflow, 19 Oct. 2020, [StackOverflow](https://stackoverflow.com/a/64426586). Accessed 19 Apr. 2023.
-* [11] ‘Make a README’. Make a README, [MakeAREADME](https://www.makeareadme.com. Accessed 19 Apr. 2023.
-* [12] PySimpleGUI - Password Protect Your Program, [YouTube: The CS Classroom](https://www.youtube.com/watch?v=Nya7yHlv-Ng). Accessed 19 Apr. 2023.
-* [13] Chaturvedi, Anubhav. ‘Building a Login GUI App in Python...’. Medium, 20 Dec. 2021, [Medium](https://consultanubhav-1596.medium.com/building-a-login-gui-app-in-python-with-encrypted-credentials-saving-functionality-dfefec18cbb1). Accessed 19 Apr. 2023.
-* [14] Python, Real. Getting Started With Testing in Python. [Real Python](https://realpython.com/python-testing/). Accessed 19 Apr. 2023.
+* [06] vinaypamnani-msft. 4688(S) A New Process Has Been Created. (Windows 10). 16 Dec. 2022, [Microsoft](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4688). Accessed 01 Apr. 2023.
+* [07] ‘Re — Regular Expression Operations’. Python Documentation, [Python](https://docs.python.org/3/library/re.html). Accessed 01 Apr. 2023.
+* [08] Windows Security Log Event ID 4688 - A New Process Has Been Created. [UltimateWindowsSecurity](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4688). Accessed 01 Apr. 2023.
+* [09] W. Ballenthin, “python-evtx,” GitHub, Apr. 17, 2023. [GitHub](https://github.com/williballenthin/python-evtx). Accessed 01 Apr. 2023.
+* [10] Desai, Bhargav. 'Login Authenticator'. Stack Overflow, 19 Oct. 2020, [StackOverflow](https://stackoverflow.com/a/64426586). Accessed 01 Apr. 2023.
+* [11] ‘Make a README’. Make a README, [MakeAREADME](https://www.makeareadme.com. Accessed 01 Apr. 2023.
+* [12] PySimpleGUI - Password Protect Your Program, [YouTube: The CS Classroom](https://www.youtube.com/watch?v=Nya7yHlv-Ng). Accessed 01 Apr. 2023.
+* [13] Chaturvedi, Anubhav. ‘Building a Login GUI App in Python...’. Medium, 20 Dec. 2021, [Medium](https://consultanubhav-1596.medium.com/building-a-login-gui-app-in-python-with-encrypted-credentials-saving-functionality-dfefec18cbb1). Accessed 01 Apr. 2023.
+* [14] Python, Real. Getting Started With Testing in Python. [Real Python](https://realpython.com/python-testing/). Accessed 01 Apr. 2023.
 ___
 
 ### Declaration
