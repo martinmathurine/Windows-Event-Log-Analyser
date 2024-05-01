@@ -1,4 +1,4 @@
-# EVTX Log Analyser
+# Network Security EVTX Log Analyser
 ___
 ## Author
 Emanuel Martin Mathurine (w1229113), 6ELEN016W, © University of Westminster 2022/2023
