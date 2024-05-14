@@ -1,9 +1,9 @@
-# Network Security EVTX Log Analyser
+# Windows Event Log Analyser (Network Security EVTX Log Analyser)
 ___
 ## Author
 Emanuel Martin Mathurine (w1229113), 6ELEN016W, © University of Westminster 2022/2023
 * [LinkedIn/MartinMathurine](https://www.linkedin.com/in/martinmathurine)
-* [GitHub/MartinMathurine](https://github.com/Martin199X/Network-Security-EVTX-Log-Analyser)
+* [GitHub/MartinMathurine](https://github.com/Martin199X/Windows-Event-Log-Analyser)
 ___
 ## Description
 This is a PySimpleGUI-based Python software tool for processing and visualising selected Windows Event Security.EVTX log files that meet a conditions in Event ID 4688.
