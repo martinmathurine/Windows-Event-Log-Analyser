@@ -1,7 +1,7 @@
 # Windows Event Log Analyser (Network Security EVTX Log Analyser)
 ___
 ## Author
-Emanuel Martin Mathurine (w1229113), 6ELEN016W, © University of Westminster 2022/2023
+Martin Mathurine (w1229113), 6ELEN016W, © University of Westminster 2022/2023
 * [LinkedIn/MartinMathurine](https://www.linkedin.com/in/martinmathurine)
 * [GitHub/MartinMathurine](https://github.com/Martin199X/Windows-Event-Log-Analyser)
 ___
@@ -234,4 +234,4 @@ ___
 ___
 
 ### Declaration
-I hereby declare that unless otherwise indicated, all work included in this individual project was of the author. All sources, references and literature used will be properly cited and referenced completely due to the source. Emanuel. M. Mathurine. © University of Westminster 2022/2023
+I hereby declare that unless otherwise indicated, all work included in this individual project was of the author. All sources, references and literature used will be properly cited and referenced completely due to the source. M. Mathurine. © University of Westminster 2022/2023
