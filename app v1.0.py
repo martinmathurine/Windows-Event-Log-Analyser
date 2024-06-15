@@ -1,7 +1,7 @@
 # README
 # Filename: app v1.0.py
 # Arbitrary Version: v1.0
-# Author: Emanuel Martin Mathurine (w1229113), 6ELEN016W, © University of Westminster, 2022/2023
+# Author: Martin Mathurine, © University of Westminster, 2022/2023
 # LinkedIn: https://www.linkedin.com/in/martinmathurine
 # Github: https://github.com/Martin199X
 # Description: This is a PySimpleGUI-based Python software tool for processing and visualising selected Windows Event
